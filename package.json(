@@ -1,0 +1,6 @@
+{
+  "name": "netlify-translator-api",
+  "version": "1.0.0",
+  "description": "Simple Translate API on Netlify Functions",
+  "dependencies": {}
+}
